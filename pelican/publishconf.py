@@ -8,7 +8,7 @@ from __future__ import unicode_literals
 import os
 
 AUTHOR = 'KMOL'
-SITENAME = '2015FALL KMOL 課程'
+SITENAME = '2015FALL 作業主頁'
 SITEURL = ''
 
 PATH = 'content'
@@ -26,13 +26,12 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),
-         ('You can modify those links in your config file', '#'),)
+         ('Python', 'http://python.org/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-
+SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+          ('github', 'http://github.com/ametaireau'),)
+          
 DEFAULT_PAGINATION = 10
 
 SITEURL = 'http://coursemdetw.github.io/reveal'
@@ -54,4 +53,11 @@ PLUGIN_PATHS = ['./../plugin']
 PLUGINS = ['liquid_tags.notebook']
 # 目錄設定相對於 reveal 下的 content 目錄
 NOTEBOOK_DIR = 'notebook'
+'''
+if not os.path.exists('_nb_header.html'):     
+    import warnings 
+    warnings.warn("_nb_header.html not found.") 
+else: 
+    EXTRA_HEADER = open('_nb_header.html', encoding="utf-8").read()
+'''
 
