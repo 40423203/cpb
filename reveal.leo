@@ -47,17 +47,17 @@
 <v t="leo.20151116220226.1"><vh>@edit 40423203_cp_w7.md</vh></v>
 <v t="leo.20151116220236.1"><vh>@edit 40423203_cp_w8.md</vh></v>
 <v t="leo.20151116220245.1"><vh>@edit 40423203_cp_w9.md</vh></v>
+<v t="leo.20151116221342.1"><vh>以下為 reveal 投影片</vh></v>
+<v t="leo.20151116221351.1"><vh>@edit 40423203_cp_w1_p.html</vh></v>
+<v t="leo.20151116221403.1"><vh>@edit 40423203_cp_w2_p.html</vh></v>
+<v t="leo.20151116221414.1"><vh>@edit 40423203_cp_w3_p.html</vh></v>
+<v t="leo.20151116221422.1"><vh>@edit 40423203_cp_w4_p.html</vh></v>
+<v t="leo.20151116221428.1"><vh>@edit 40423203_cp_w5_p.html</vh></v>
+<v t="leo.20151116221433.1"><vh>@edit 40423203_cp_w6_p.html</vh></v>
+<v t="leo.20151116221438.1"><vh>@edit 40423203_cp_w7_p.html</vh></v>
+<v t="leo.20151116221446.1"><vh>@edit 40423203_cp_w8_p.html</vh></v>
+<v t="leo.20151116221453.1"><vh>@edit 40423203_cp_w9_p.html</vh></v>
 </v>
-<v t="amd.20150919120205.1"><vh>以下為 reveal 投影片</vh></v>
-<v t="leo.20151116220303.1"><vh>@edit 40423203_cp_w1_p.html</vh></v>
-<v t="leo.20151116220311.1"><vh>@edit 40423203_cp_w2_p.html</vh></v>
-<v t="leo.20151116220318.1"><vh>@edit 40423203_cp_w3_p.html</vh></v>
-<v t="leo.20151116220332.1"><vh>@edit 40423203_cp_w4_p.html</vh></v>
-<v t="leo.20151116220339.1"><vh>@edit 40423203_cp_w5_p.html</vh></v>
-<v t="leo.20151116220344.1"><vh>@edit 40423203_cp_w6_p.html</vh></v>
-<v t="leo.20151116220351.1"><vh>@edit 40423203_cp_w7_p.html</vh></v>
-<v t="leo.20151116220357.1"><vh>@edit 40423203_cp_w8_p.html</vh></v>
-<v t="leo.20151116220406.1"><vh>@edit 40423203_cp_w9_p.html</vh></v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
 <v t="amd.20150913233943.3" a="E"><vh>head</vh>
@@ -303,7 +303,7 @@
 </v>
 <v t="amd.20150915211341.1"><vh>@clean simplest.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
+<v t="amd.20150915211351.1"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
@@ -2153,7 +2153,6 @@ ip.config.ProfileDir </t>
 <t tx="amd.20150919113340.1"></t>
 <t tx="amd.20150919113957.1"></t>
 <t tx="amd.20150919114010.1"></t>
-<t tx="amd.20150919120205.1"></t>
 <t tx="amd.20150919124128.1">@language python
 import os
 os.system('''pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-bootstrap3
@@ -2255,5 +2254,6 @@ sudo pip3 install IPython[notebook]==3.2.1
     &lt;p&gt;影音教材&lt;/p&gt;
 &lt;/section&gt;</t>
 <t tx="leo.20151116220058.1"></t>
+<t tx="leo.20151116221342.1"></t>
 </tnodes>
 </leo_file>
