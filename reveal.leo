@@ -57,6 +57,8 @@
 <v t="leo.20151116221438.1"><vh>@edit 40423203_cp_w7_p.html</vh></v>
 <v t="leo.20151116221446.1"><vh>@edit 40423203_cp_w8_p.html</vh></v>
 <v t="leo.20151116221453.1"><vh>@edit 40423203_cp_w9_p.html</vh></v>
+<v t="leo.20151116223117.1"><vh>以下為設定檔 ------------</vh></v>
+<v t="leo.20151116223128.1"><vh>@edit publishconf.py</vh></v>
 </v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
@@ -2255,5 +2257,6 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;</t>
 <t tx="leo.20151116220058.1"></t>
 <t tx="leo.20151116221342.1"></t>
+<t tx="leo.20151116223117.1"></t>
 </tnodes>
 </leo_file>
