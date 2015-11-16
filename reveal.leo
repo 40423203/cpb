@@ -34,7 +34,7 @@
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="leo.20151116225230.1"><vh>以下為 pelican 文章</vh>
+<v t="leo.20151116225230.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="leo.20151116225230.2"><vh>@button admin pelican</vh></v>
 <v t="leo.20151116225230.3"><vh>@button user pelican</vh></v>
 <v t="leo.20151116225230.4"><vh>@path pelican</vh>
@@ -48,7 +48,7 @@
 </v>
 </v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
 <v t="leo.20151116220058.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151116221342.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="leo.20151116221351.1"><vh>@edit 40423203_cp_w1_p.html</vh></v>
@@ -58,7 +58,7 @@
 <v t="leo.20151116221428.1"><vh>@edit 40423203_cp_w5_p.html</vh></v>
 <v t="leo.20151117003635.1"><vh>@edit 40423203_cp_w6_p.html</vh></v>
 <v t="leo.20151117003642.1"><vh>@edit 40423203_cp_w7_p.html</vh></v>
-<v t="leo.20151117003607.1"><vh>@edit 40423203_cp_w8_p.html</vh></v>
+<v t="leo.20151117004911.1"><vh>@edit 40423203_cp_w8_p.html</vh></v>
 <v t="leo.20151116221453.1"><vh>@edit 40423203_cp_w9_p.html</vh></v>
 <v t="leo.20151116224943.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151116224943.2"><vh>以下為設定檔 ------------</vh></v>
