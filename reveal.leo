@@ -76,8 +76,6 @@
 <v t="leo.20151116224943.14"><vh>@edit 40423203_cp_w9.md</vh></v>
 </v>
 </v>
-<v t="leo.20151116223117.1"><vh>以下為設定檔 ------------</vh></v>
-<v t="leo.20151116223128.1"><vh>@edit publishconf.py</vh></v>
 </v>
 <v t="amd.20150913233943.1"><vh>@clean cadpbw1.html</vh>
 <v t="amd.20150913233943.2" a="E"><vh>html</vh>
@@ -2275,7 +2273,6 @@ sudo pip3 install IPython[notebook]==3.2.1
 &lt;/section&gt;</t>
 <t tx="leo.20151116220058.1"></t>
 <t tx="leo.20151116221342.1"></t>
-<t tx="leo.20151116223117.1"></t>
 <t tx="leo.20151116224943.1"></t>
 <t tx="leo.20151116224943.10">@language md
 Title: 2015 計算機程式 作業五
@@ -2313,7 +2310,7 @@ Summary: 作業六摘要
 &lt;iframe src="https://player.vimeo.com/video/144983217" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144983217"&gt;第六週計算機程式操作bandicam 2015-11-08 00-13-29-035&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 <t tx="leo.20151116224943.12">@language md
 Title: 2015 計算機程式 作業七
-Date: 2015-11/06 2:36
+Date: 2015-10/30 3:36
 Category: Python
 Tags: pelican, publishing
 Slug: 2015cp_hw_w7
