@@ -48,7 +48,7 @@
 </v>
 </v>
 <v t="amd.20150919124128.1"><vh>@button pelican content</vh></v>
-<v t="amd.20150919114010.1"><vh>@path pelican\content</vh>
+<v t="amd.20150919114010.1" a="E"><vh>@path pelican\content</vh>
 <v t="leo.20151116220058.1"><vh>以下為網誌 md 檔案 ------------</vh></v>
 <v t="leo.20151116221342.1"><vh>以下為 reveal 投影片</vh></v>
 <v t="leo.20151116221351.1"><vh>@edit 40423203_cp_w1_p.html</vh></v>
@@ -60,6 +60,7 @@
 <v t="leo.20151117003642.1"><vh>@edit 40423203_cp_w7_p.html</vh></v>
 <v t="leo.20151117004911.1"><vh>@edit 40423203_cp_w8_p.html</vh></v>
 <v t="leo.20151116221453.1"><vh>@edit 40423203_cp_w9_p.html</vh></v>
+<v t="leo.20160102200140.1"><vh>@edit 40423203_cp_w12_p.html</vh></v>
 <v t="leo.20151116224943.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20151116224943.2"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20151116224943.3"><vh>@edit publishconf.py</vh></v>
@@ -74,6 +75,7 @@
 <v t="leo.20151117191734.1"><vh>@edit 40423203_cp_w7.md</vh></v>
 <v t="leo.20151117191748.1"><vh>@edit 40423203_cp_w8.md</vh></v>
 <v t="leo.20151117212529.1"><vh>@edit 40423203_cp_w9.md</vh></v>
+<v t="leo.20160102200153.1"><vh>@edit 40423203_cp_w12.md</vh></v>
 </v>
 </v>
 </v>
@@ -2288,41 +2290,23 @@ os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t ../../them
 g.es("user pelican 執行完畢")</t>
 <t tx="leo.20151116225230.4"></t>
 <t tx="leo.20151116225230.6"></t>
-<t tx="leo.20151117212516.1">@language md
-Title: 2015 計算機程式 作業六
-Date: 2015-10/23 2:36
+<t tx="leo.20160102200153.1">@language md
+Title: 2015 計算機程式 作業十
+Date: 2015-11/27 14:36
 Category: Python
 Tags: pelican, publishing
-Slug: 2015cp_hw_w6
+Slug: 2015cp_hw_w12
 Authors: 40423203
-Summary: 作業六摘要
+Summary: 作業十摘要
 
-以下為作業六內容
+以下為作業十內容
 
 利用 iframe 嵌入投影片:
 
-&lt;iframe src="40423203_cp_w6_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="40423203_cp_w12_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-[作業投影片](40423203_cp_w6_p.html){:target="_blank"}
+[作業投影片](40423203_cp_w12_p.html){:target="_blank"}
 
-&lt;iframe src="https://player.vimeo.com/video/144983217" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/144983217"&gt;第六週計算機程式操作bandicam 2015-11-08 00-13-29-035&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
-<t tx="leo.20151117212529.1">@language md
-Title: 2015 計算機程式 作業九
-Date: 2015-11/13 2:36
-Category: Python
-Tags: pelican, publishing
-Slug: 2015cp_hw_w9
-Authors: 40423203
-Summary: 作業九摘要
-
-以下為作業九內容
-
-利用 iframe 嵌入投影片:
-
-&lt;iframe src="40423203_cp_w9_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
-
-[作業投影片](40423203_cp_w9_p.html){:target="_blank"}
-
-&lt;iframe src="https://player.vimeo.com/video/145030461" width="500" height="313" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/145030461"&gt;第九週計算機程式操作影片bandicam 2015-11-08 15-48-22-203&lt;/a&gt; from &lt;a href="https://vimeo.com/user45597735"&gt;40423201&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
+&lt;iframe src="https://player.vimeo.com/video/150517321" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/150517321"&gt;40423203的猜數字遊戲&lt;/a&gt; from &lt;a href="https://vimeo.com/user46241007"&gt;40423203&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</t>
 </tnodes>
 </leo_file>
