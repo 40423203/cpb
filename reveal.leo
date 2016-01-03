@@ -34,10 +34,10 @@
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="leo.20151116225230.1"><vh>以下為 pelican 文章</vh>
+<v t="leo.20151116225230.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="leo.20151116225230.2"><vh>@button admin pelican</vh></v>
 <v t="leo.20151116225230.3"><vh>@button user pelican</vh></v>
-<v t="leo.20151116225230.4" a="E"><vh>@path pelican</vh>
+<v t="leo.20151116225230.4"><vh>@path pelican</vh>
 <v t="leo.20151116225230.5"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20151116225230.6" a="E"><vh>@path content</vh>
 <v t="leo.20151116225230.7"><vh>@edit 2015cphww1.md</vh></v>
@@ -67,7 +67,7 @@
 <v t="leo.20160102203722.15"><vh>@edit publishconf.py</vh></v>
 <v t="leo.20160102203722.16" a="E"><vh>@path content</vh>
 <v t="leo.20160102203722.17"><vh>以下為網誌 md 檔案 ------------</vh></v>
-<v t="leo.20160102203722.18"><vh>@edit 40423203_cp_w1.md</vh></v>
+<v t="leo.20160103140704.1"><vh>@edit 40423203_cp_w1.md</vh></v>
 <v t="leo.20160102203722.19"><vh>@edit 40423203_cp_w2.md</vh></v>
 <v t="leo.20160102203722.20"><vh>@edit 40423203_cp_w3.md</vh></v>
 <v t="leo.20160102203722.21"><vh>@edit 40423203_cp_w4.md</vh></v>
