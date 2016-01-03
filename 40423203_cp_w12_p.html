@@ -30,34 +30,98 @@
 </section>
 	
 <section id="hw-task-five">
-    <h1>作業十-任務說明</h1>
+    <h1>作業十一</h1>
     <p></p>   
 </section>
   
-  <section>
-<h1>期中報告心得</h1>
-期中考完了呢~對這門課有了更伸一步的了解,一些基本操作也逐漸熟悉,當然學的課程相對也更深了,慢慢進入本課程的核心"寫程式"了,但前提是要清楚了解程式的語法,剛接觸的我感覺到十分的困難,城市中有許多的專業術語,像是:
-int(  =>integer(整數)
-str(  =>string(字串)
-float(  =>float(浮點數)
-#  =>註解,用來解釋(不會執行),等等。
-</section> 
+ <section id="hw-task-eight">
+    <h1>python也會畫畫?</h1>
+在python除了可以導入random，我們也可以導入一個叫turtle的指令，可以命令這隻"烏龜"來幫我們走出路徑。
+<br />
+要導入這條烏龜，輸入:
+<br />
+import turtle
+</section>
+  
+<section>
+<h2>我們可以命令這條烏龜:</h2>
 
-  <section>
-上述,這些都是我們需要學習的,千萬不能小看了這些,有了它,對往後的我們是十分有幫助的。像是一個看似簡單的"猜數字"小遊戲,其實相當的不簡單,因此我們必須靈活的運用這些程式。
-</section> 
-
-  <section>
-電腦固然聰明,但總有些是比不上人的,相對的,人雖聰明,可終會有一些是無法與電腦相比的,如果能將兩者結合,必能帶來超乎想像的好處,電腦是用來使我們更輕鬆的,不是要來打敗我們的,因此不要退縮,要勇於學習。
-</section> 
+<br />
+前進:turtle.forward(100)
+<br />
+讓烏龜前進100個單位，前進默認為向右走
+<br />
+轉彎:turtle.right(90)
+<br />
+讓烏龜向右轉90度，相對left就是向左轉
+<br />
+上色:turtle.color(顏色名，例如red)
+<br />
+就是幫線條上色
+</section>
+				
+<section>
+有上面這些指令就能做出一個多邊形了，但要做出很多邊了話可能會很麻煩，這個時候我們可以用一個重複指令
+<br />
+for i in range(次數)
+<br />
+這個指令可以讓後續的指令重複次數次，其中"i"可以帶入任何數字外的字眼來作代數
+<br />
+for i in range(4)
+<br />
+    print("hello")
+<br />
+就能輸出
+<br />
+hello
+<br />
+hello
+<br />
+hello
+<br />
+hello
+</section>
+<section>
+實際運用在烏龜上了話，我們可以這麼來:
+<br />
+for i in range(4):
+<br />
+　　turtle.forward(300)
+<br />
+　　turtle.right(90)
+<br />
+烏龜就會前進300單位之後右轉90度重複4次,即畫出一個正方形
+</section>
+<section>
+甚至也能在for i in range裡面再加一個for i in range,可以重複運行重複指令,做出乘法的效果。
+<br />
+for i in range(4):
+<br />
+　　turtle.forward(100)
+<br />
+　　turtle.right(90)
+<br />
+　　　　for i in range(4)
+<br />
+　　　　　　turtle.forward(50)
+<br />
+　　　　　　turtle.right(90)
+<br/>
+猜猜看這樣的語法會有怎麼樣的效果呢?
+</section>
 
 <section>
-第十二週了,開始教受程式語法了,而程式與法要如何應用呢?!因此拍了"猜數字"小遊戲的程式的影片,並做了測試,對自己的努力做了結論。
-</section> 
+第一個迴圈指示了前進100之後轉90度，進入第二個迴圈進行四次的前進50右轉90度的迴圈重複四次，即4x(1+4)=20步，路徑會變成一個田字型
+</section>
+
+<section>
+<h1>心得;本周所學</h1>
+確定可以透過修正, 在 C:\ana3_2015 目錄中正確啟動 Leo Editor 5.1 與 Pelican 網誌架構環境, 並且將 Jupyter 在 Y:\tmp 目錄中啟動, 所有組員都能在各分組的 Jupyter 中執行程式與 Markdown 報告編寫,因此錄了操作影片。
+</section>
 
 <section>
 <h1>自評</h1>
-雖然並非所有的內容都能馬上吸收,但對於新的課程有了基本的了解,相信只要再多加練習,就能靈活運用了,也漸漸地跟上進度了,給自己的分數是:75分。
+再經過多次的練習,反覆參考老師所錄的影片,終於完成,並且錄製影片。給自己的分數是:74分。
 </section> 
 </div>
 </div>
