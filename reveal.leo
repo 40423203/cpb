@@ -34,7 +34,7 @@
 <v t="amd.20150919113132.1"><vh>@edit publishconf.py</vh></v>
 </v>
 </v>
-<v t="leo.20151116225230.1"><vh>以下為 pelican 文章</vh>
+<v t="leo.20151116225230.1" a="E"><vh>以下為 pelican 文章</vh>
 <v t="leo.20151116225230.2"><vh>@button admin pelican</vh></v>
 <v t="leo.20151116225230.3"><vh>@button user pelican</vh></v>
 <v t="leo.20151116225230.4" a="E"><vh>@path pelican</vh>
@@ -47,9 +47,9 @@
 </v>
 </v>
 </v>
-<v t="leo.20160107234646.1"><vh>@path pelican</vh>
+<v t="leo.20160107234646.1" a="E"><vh>@path pelican</vh>
 <v t="leo.20160107234646.2"><vh>@edit publishconf.py</vh></v>
-<v t="leo.20160107234646.3" a="E"><vh>@path content</vh>
+<v t="leo.20160107234646.3"><vh>@path content</vh>
 <v t="leo.20160107234646.4"><vh>@edit 2015cphww1.md</vh></v>
 <v t="leo.20160107234646.5"><vh>@edit 2015cphww7.md</vh></v>
 <v t="leo.20160107234646.6"><vh>@edit 2015cpnote7.md</vh></v>
