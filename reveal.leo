@@ -75,6 +75,7 @@
 <v t="leo.20160108224621.1"><vh>@edit 40423203_cp_w14_p.html</vh></v>
 <v t="leo.20160108224628.1"><vh>@edit 40423203_cp_w15_p.html</vh></v>
 <v t="leo.20160108224633.1"><vh>@edit 40423203_cp_w17_p.html</vh></v>
+<v t="leo.20160115140733.1"><vh>@edit 40423203_cp_w18_p.html</vh></v>
 <v t="leo.20160102203722.13" a="E"><vh>@path pelican</vh>
 <v t="leo.20160102203722.14"><vh>以下為設定檔 ------------</vh></v>
 <v t="leo.20160102203722.15"><vh>@edit publishconf.py</vh></v>
@@ -95,6 +96,7 @@
 <v t="leo.20160108224644.1"><vh>@edit 40423203_cp_w14.md</vh></v>
 <v t="leo.20160109170919.1"><vh>@edit 40423203_cp_w15.md</vh></v>
 <v t="leo.20160108224657.1"><vh>@edit 40423203_cp_w17.md</vh></v>
+<v t="leo.20160115140744.1"><vh>@edit 40423203_cp_w18.md</vh></v>
 </v>
 </v>
 </v>
